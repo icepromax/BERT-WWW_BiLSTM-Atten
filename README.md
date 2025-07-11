@@ -33,7 +33,7 @@
 
 ### 🖼️ 示例界面截图
 
-![Uploading image.png…]()
+<img width="866" height="434" alt="image" src="https://github.com/user-attachments/assets/c7d29530-b5e1-4ea8-8108-bca9240f634b" />
 
 
 ## 其它相关说明
