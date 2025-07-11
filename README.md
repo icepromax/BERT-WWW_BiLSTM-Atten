@@ -33,7 +33,8 @@
 
 ### 🖼️ 示例界面截图
 
-![image-20250711094849801](C:\Users\86182\AppData\Roaming\Typora\typora-user-images\image-20250711094849801.png)
+![Uploading image.png…]()
+
 
 ## 其它相关说明
 
